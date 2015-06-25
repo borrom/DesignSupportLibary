@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<goldenkyds.com.ifl.ui.widget.IFLText
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/ifl_id"
+android:layout_width="wrap_content"
+android:text="IFL"
+android:textSize="50dp"
+android:textStyle="bold"
+android:textColor="#222"
+android:layout_marginTop="150dp"
+android:layout_gravity="center_horizontal"
+android:layout_height="wrap_content" />

@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/ifl_home_menu"
+            android:checked="true"
+            android:icon="@drawable/ic_location_city_black_36dp"
+            android:title="IFL Home"/>
+        <item
+            android:icon="@drawable/ic_school_black_36dp"
+            android:id="@+id/ifl_exam_menu"
+            android:title="IFL Exam"/>
+        <item
+            android:id="@+id/toefl_exam_menu"
+            android:icon="@drawable/ic_school_black_36dp"
+            android:title="TOEFL Exam"/>
+        <item
+            android:id="@+id/ifl_library"
+            android:icon="@drawable/ic_pages_black_36dp"
+            android:title="Library"/>
+        <item android:title="The Application" >
+            <menu>
+                <item
+                    android:id="@+id/Setting"
+                    android:title="Settings"/>
+                <item
+                    android:id="@+id/Feedback"
+                    android:title="Feedback"/>
+            </menu>
+        </item>
+    </group>
+</menu>

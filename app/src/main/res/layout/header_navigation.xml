@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:gravity="center"
+    android:background="@color/link_text_material_dark"
+    android:layout_height="200dp">
+    <goldenkyds.com.ifl.ui.widget.IFLText
+        android:id="@+id/ifl_id"
+        android:layout_width="wrap_content"
+        android:text="IFL"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        android:textColor="#222"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="wrap_content" />
+</LinearLayout>

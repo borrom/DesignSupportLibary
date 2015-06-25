@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/gguser/Desktop/IFL/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/gguser/Desktop/IFL/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-e9361b14e843459bfe78986836dba767ae3fc973.jar" />
+    </item>
+    <item
+        jar="/home/gguser/Desktop/IFL/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/gguser/Desktop/IFL/app/build/intermediates/pre-dexed/debug/classes-75faf75d85cbf0a2297e835273e4f7052f69d2ab.jar" />
+    </item>
+    <item
+        jar="/home/gguser/Desktop/IFL/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/gguser/Desktop/IFL/app/build/intermediates/pre-dexed/debug/classes-f7679a4dc62500c22ac721cbbb17c87784bce1c9.jar" />
+    </item>
+    <item
+        jar="/home/gguser/Desktop/IFL/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/gguser/Desktop/IFL/app/build/intermediates/pre-dexed/debug/classes-0053a080b9e9c086b603bf927badade4a54008ef.jar" />
+    </item>
+    <item
+        jar="/home/gguser/Desktop/IFL/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/gguser/Desktop/IFL/app/build/intermediates/pre-dexed/debug/classes-445166899160f61a48be194a8e9d79eec130e15d.jar" />
+    </item>
+    <item
+        jar="/home/gguser/Desktop/IFL/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/home/gguser/Desktop/IFL/app/build/intermediates/pre-dexed/debug/classes-ff9f0b83441a3106a7ad6a413481d10824ba5992.jar" />
+    </item>
+    <item
+        jar="/home/gguser/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/gguser/Desktop/IFL/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-e1ad1d7c132e398b686e205e16f1663ac00293a6.jar" />
+    </item>
+
+</items>
