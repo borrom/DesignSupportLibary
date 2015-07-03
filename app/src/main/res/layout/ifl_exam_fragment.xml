@@ -7,18 +7,19 @@
 
     <android.support.v4.widget.NestedScrollView
         android:layout_width="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
         android:layout_height="match_parent">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:orientation="vertical"
             android:layout_height="match_parent">
-            <include layout="@layout/sample_card"/>
-            <include layout="@layout/sample_card"/>
-            <include layout="@layout/sample_card"/>
-            <include layout="@layout/sample_card"/>
-            <include layout="@layout/sample_card"/>
-            <include layout="@layout/sample_card"/>
+            <include layout="@layout/reader_card"/>
+            <include layout="@layout/reader_card"/>
+            <include layout="@layout/reader_card"/>
+            <include layout="@layout/reader_card"/>
+            <include layout="@layout/reader_card"/>
+            <include layout="@layout/reader_card"/>
         </LinearLayout>
     </android.support.v4.widget.NestedScrollView>
 
